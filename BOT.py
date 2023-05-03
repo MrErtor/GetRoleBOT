@@ -1,5 +1,5 @@
 # GetRoleBOT
-# Author Egor localhsot - TheErtor
+# Author Egor localhost - TheErtor
 
 #import libraries
 import discord
